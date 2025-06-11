@@ -8,8 +8,10 @@ Features:
 - 📥 Downloadable CSV of filtered views
 - 💾 Model saved for future predictions
 
-Live Dashboard:
-    🔗 [Click here to view the dashboard](https://bit.ly/rishab-scm-dashboard)
+  Live Dashboard:
+   You can explore the interactive dashboard here:  
+   [Streamlit App](https://supply-chain-analysis-cdvvuy2nubr9fnmdjsmutk.streamlit.app/)
+
 
 
   Project Structure:
