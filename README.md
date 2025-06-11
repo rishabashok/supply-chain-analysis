@@ -10,7 +10,7 @@ Features:
 
   Live Dashboard:
    You can explore the interactive dashboard here:  
-   [Streamlit App](https://supply-chain-analysis-cdvvuy2nubr9fnmdjsmutk.streamlit.app/)
+   [Streamlit App](https://supply-chain-analysis-nmhr5h5gle4ybn5alfyvnl.streamlit.app/)
 
 
 
