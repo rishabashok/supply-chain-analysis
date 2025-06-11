@@ -9,7 +9,8 @@ Features:
 - 💾 Model saved for future predictions
 
 Live Dashboard:
-  [View Streamlit App]-(https://supply-chain-analysis-cdvvuy2nubr9fnmdjsmutk.streamlit.app/)
+    🔗 [Click here to view the dashboard](https://bit.ly/rishab-scm-dashboard)
+
 
   Project Structure:
     supply-chain-analysis/
