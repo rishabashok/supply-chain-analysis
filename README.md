@@ -42,6 +42,6 @@ Live Dashboard:
 
 **Rishab Ashok**  
 _Data Analyst Intern_  
- [LinkedIn](https://www.linkedin.com/in/rishabashok) | 🐙 [GitHub](https://github.com/rishabashok)
+ [LinkedIn](https://www.linkedin.com/in/rishab-ashok-655932354/) | 🐙 [GitHub](https://github.com/rishabashok)
 
 
